@@ -7,7 +7,8 @@ maintenance: false
 
 ---
 
-<!-- rebuild 6 -->
+<!-- rebuild 001 -->
+
 {% if page.maintenance %}
 The Supporter portal is currently undergoing maintenance and will return soon. Thank you for your patience.
 {% else %}
